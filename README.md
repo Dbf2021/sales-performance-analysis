@@ -1,15 +1,15 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
-## 🔍 Overview
+## Overview
 
 This project presents a Power BI dashboard analyzing sales performance across different categories, regions, and customer segments.
 
-## 🛠 Tools Used
+## Tools Used
 
 * Power BI
 * Data Cleaning & Transformation
 
-## 📈 Key Features
+## Key Features
 
 * Sales trends over time (Order Date)
 * Regional performance comparison
@@ -17,22 +17,14 @@ This project presents a Power BI dashboard analyzing sales performance across di
 * Sub-category performance breakdown
 * KPI cards (Sales, Profit, Quantity, Discount)
 
-## 💡 Key Insights
+##  Key Insights
 
 * The West region generated the highest sales
 * Consumer segment contributed the most revenue
 * Phones and Chairs are top-performing products
+  
 
-## 📷 Dashboard Preview
-
-![Dashboard](your-image-name.png)
-
-## 📁 Files Included
-
-* `Sales Dashboard.pbix`
-* `dashboard.png`
-
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 * Data visualization
 * Business analysis
